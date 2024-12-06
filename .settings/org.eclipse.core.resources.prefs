@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/com/duckzcraft/viper_monster/antiautosoup/Main.java=UTF-8
+encoding//src/com/duckzcraft/viper_monster/antiautosoup/listeners/EntityDamageByEntityListener.java=UTF-8
+encoding//src/com/duckzcraft/viper_monster/antiautosoup/listeners/EntityDamageListener.java=UTF-8
+encoding//src/com/duckzcraft/viper_monster/antiautosoup/listeners/InventoryClickListener.java=UTF-8
+encoding//src/com/duckzcraft/viper_monster/antiautosoup/utils/ConfigUtils.java=UTF-8
+encoding//src/com/duckzcraft/viper_monster/antiautosoup/utils/Utils.java=UTF-8
+encoding//src/com/duckzcraft/viper_monster/antiautosoup/utils/Violation.java=UTF-8

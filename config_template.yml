@@ -1,0 +1,10 @@
+check-time: 999
+message-delay: 5000
+maximum-allowed-violation-level: 10
+commands-run:
+  - 'ban %player 2160 Uso de auto soup'
+logging:
+  enabled: false
+  always: false
+  divisible: 5
+  at-level: 50

@@ -1,0 +1,12 @@
+name: PDGHAntiAutoSoup
+main: com.duckzcraft.viper_monster.antiautosoup.Main
+version: 1.0
+author: mchiappinam
+website: http://pdgh.com.br/
+permissions:
+    aas.notifications:
+        description: notifies you when an auto souper is found
+        default: op
+    aas.bypass:
+        description: bypasses the check
+        default: op
